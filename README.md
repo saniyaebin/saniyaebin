@@ -1,6 +1,6 @@
 # Hi, I'm Saniya 👋
 
-### Software Developer | BCA Student | Tech Enthusiast
+### BCA Student | Tech Enthusiast
 
 Passionate about building desktop applications, database-driven systems, and learning modern software technologies.  
 Focused on improving problem-solving skills, software development, and real-world project building.
@@ -33,10 +33,7 @@ Focused on improving problem-solving skills, software development, and real-worl
 ## 💡 Current Focus
 
 - Building real-world software projects
-- Improving backend & database skills
 - Learning advanced development technologies
-- Strengthening problem-solving abilities
-
 ---
 
 ⭐ Always learning, building, and improving.
