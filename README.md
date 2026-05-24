@@ -24,23 +24,13 @@ Focused on improving problem-solving skills, software development, and real-worl
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 📌 Featured Projects
-
-### 🩸 Blood Bank Management System
-Desktop-based management system developed using VB.NET and SQL for managing donors, blood stock, patient records, and reports.
-
-### 🎬 Movie Ticket Booking System
-Cinema ticket booking application focused on seat management, user interaction, and booking workflows.
-
----
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourmail@example.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 📸 Instagram: https://instagram.com/yourusername
+- 📧 Email: saniyaebin2006.com
+- 💼 LinkedIn: https://linkedin.com/in/saniya-ebin
+- 📸 Instagram: https://instagram.com/_s_niy_
 
 ---
 
