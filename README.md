@@ -29,7 +29,7 @@ Focused on improving problem-solving skills, software development, and real-worl
 ## 📫 Connect With Me
 
 - 📧 Email: saniyaebin2006.com
-- 💼 LinkedIn: https://linkedin.com/in/saniya-ebin
+- 💼 LinkedIn:https://www.linkedin.com/in/saniya-ebin-4692a0354/
 - 📸 Instagram: https://instagram.com/_s_niy_
 
 ---
