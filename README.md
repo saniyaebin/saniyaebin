@@ -1,8 +1,8 @@
 # Hi, I'm Saniya 👋
 
-### BCA Student | Tech Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&speed=50&color=58A6FF&width=550&lines=Software+Developer+🚀;Problem+Solver+%26+Builder;C%2B%2B+%7C+Python+%7C+JavaScript;Always+learning%2C+always+shipping...;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-Passionate about building software applications, database-driven systems, and learning modern software technologies.  
+### BCA Student | Tech Enthusiast
 ---
 
 ## 🚀 Tech Stack
